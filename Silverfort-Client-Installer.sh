@@ -6,6 +6,9 @@
 # This script is deisgned to be used with Jamf Pro, but can be covnerted to other 
 # MDM platorms with little effort. 
 #
+# Create a policy with the DMG file being cached on the Mac.
+# Add this script to the policy, set it to run after. Enter the required info in the fields. 
+#
 ##### History #####
 #
 # v1.0 Aug 04 2025 - mikeg91
